@@ -1,2 +1,2 @@
 # datasciencecoursera
-repo for coursework
+Repository for coursework
